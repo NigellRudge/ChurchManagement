@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'MAIN_ACCOUNT_TYPE_INCOME' => 1,
+    'MAIN_ACCOUNT_TYPE_EXPENSE' => 2,
+
+    'TRANSACTION_TYPE_CREDIT' => 1,
+    'TRANSACTION_TYPE_DEBIT' => 2,
+
+    'TRAN_TYPE_INCOME' => 1,
+    'TRAN_TYPE_EXPENSE' => 2,
+
+    'SEED_TYPE_TIDE' => 1,
+    'SEED_TYPE_SPECIAL_SEED' => 2,
+    'SEED_TYPE_BUILDING' => 3,
+
+    'CONNECTION_TYPE_SEED' => 1,
+    'CONNECTION_TYPE_OFFERING' => 2,
+
+    'MODULE_CATEGORY_MEMBERS' => 'Members',
+    'MODULE_CATEGORY_GROUPS' => 'Groups',
+    'MODULE_CATEGORY_YOUTH' => 'Youth',
+    'MODULE_CATEGORY_FINANCE' => 'Finance',
+    'MODULE_CATEGORY_EVENTS' => 'Events',
+    'MODULE_CATEGORY_CONFIG' => 'Config',
+
+    'BANK_FILE_STATUS_PENDING' => 1,
+    'BANK_FILE_STATUS_MATCHING' => 2,
+    'BANK_FILE_STATUS_MATCHED' => 3,
+
+    'APP_NAME' => 'Church Admin',
+    'CHURCH_NAME' => 'Nieuwe Generatie Gemeente Gods Bazuin'
+];
