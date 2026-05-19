@@ -66,7 +66,7 @@ Screenshots showcasing the application interface and features can be found below
 
 ### List
 
-![List](screenshots/List.png)
+![List](screenshots/list.png)
 
 ---
 
